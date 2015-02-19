@@ -11,12 +11,12 @@ public class MainActivity extends Activity {
         setContentView(R.layout.activity_main);
     }
 
-    public Vector createVector(double x, double y){
-        return new Vector(x,y);
-    }
+//    public Vector createVector(double x, double y){
+//        return new Vector(x,y);
+//    }
 
-    public double toAngle(double x, double y){
-        return 0;
-    }
+//    public double toAngle(double x, double y){
+//        return 0;
+//    }
 
 }

@@ -1,3 +1,4 @@
+/*
 package com.practice.software.assignmentb;
 
 import android.test.ActivityInstrumentationTestCase2;
@@ -48,3 +49,4 @@ public class AndroidTest extends ActivityInstrumentationTestCase2<MainActivity> 
 
 
 }
+*/
